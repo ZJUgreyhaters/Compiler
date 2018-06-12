@@ -1,6 +1,6 @@
 # Compiler
-#  implemention of a mini C Compiler in lex&yacc
-
+# implemention of a mini C Compiler in lex&yacc
+# syntax is a sub-set of ANSI-C
 #apt install bison & flex
 bison -vdty c.y 
 
